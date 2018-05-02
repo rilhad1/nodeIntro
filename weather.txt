@@ -1,1 +1,4 @@
-In general, the weather in Ternopil is Overcast. The current temperature is 69.22. The humidity level is 0.51. The wind speed is 14.69. Pressure is1008.87
+In general, the weather is Partly Cloudy. 
+The current temperature is  77.92. 
+The humidity level is 0.72. 
+The wind speed is 16.66.Pressure is 1010.46
